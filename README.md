@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @askhat-aubakirov
-- 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning data analytics
+- 👀 I’m interested in bioinformatics and dara analytics
+- 🌱 I’m currently working at EPAM Kazakhstan
 - 
 - 🥈 FameLab KZ 2019 Second Place Winner
 - 🇩🇪 KAF SUR-PLACE Scholarship fellow
